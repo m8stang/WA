@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>unzip/OrganizeMain/267.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{24,0},{23,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,20}</string>
+			</dict>
+			<key>unzip/OrganizeMain/269.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{47,0},{23,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,20}</string>
+			</dict>
+			<key>unzip/OrganizeMain/271.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{70,0},{23,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,20}</string>
+			</dict>
+			<key>unzip/OrganizeMain/273.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,0},{23,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,20}</string>
+			</dict>
+			<key>unzip/OrganizeMain/277.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{24,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,20}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist.png</string>
+			<key>size</key>
+			<string>{128,32}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>32</integer>
+		</dict>
+	</dict>
+</plist>

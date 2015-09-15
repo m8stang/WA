@@ -4,61 +4,6 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>unzip/OrganizeMain/267.PNG</key>
-			<dict>
-				<key>frame</key>
-				<string>{{121,221},{23,20}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{23,20}</string>
-			</dict>
-			<key>unzip/OrganizeMain/269.PNG</key>
-			<dict>
-				<key>frame</key>
-				<string>{{71,229},{23,20}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{23,20}</string>
-			</dict>
-			<key>unzip/OrganizeMain/271.PNG</key>
-			<dict>
-				<key>frame</key>
-				<string>{{94,230},{23,20}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{23,20}</string>
-			</dict>
-			<key>unzip/OrganizeMain/273.PNG</key>
-			<dict>
-				<key>frame</key>
-				<string>{{69,249},{23,20}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{23,20}</string>
-			</dict>
-			<key>unzip/OrganizeMain/277.PNG</key>
-			<dict>
-				<key>frame</key>
-				<string>{{97,210},{24,20}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{24,20}</string>
-			</dict>
 			<key>unzip/OrganizeMain/1.PNG</key>
 			<dict>
 				<key>frame</key>
@@ -392,7 +337,7 @@
 			<key>unzip/OrganizeMain/26.PNG</key>
 			<dict>
 				<key>frame</key>
-				<string>{{117,241},{23,20}}</string>
+				<string>{{97,210},{23,20}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -403,7 +348,7 @@
 			<key>unzip/OrganizeMain/260.PNG</key>
 			<dict>
 				<key>frame</key>
-				<string>{{55,267},{28,14}}</string>
+				<string>{{120,221},{28,14}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -436,7 +381,7 @@
 			<key>unzip/OrganizeMain/29.PNG</key>
 			<dict>
 				<key>frame</key>
-				<string>{{92,250},{23,20}}</string>
+				<string>{{71,229},{23,20}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -491,7 +436,7 @@
 			<key>unzip/OrganizeMain/299.PNG</key>
 			<dict>
 				<key>frame</key>
-				<string>{{69,269},{18,17}}</string>
+				<string>{{94,230},{18,17}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -685,14 +630,14 @@
 			<key>realTextureFileName</key>
 			<string>Plist.png</string>
 			<key>size</key>
-			<string>{575,295}</string>
+			<string>{575,281}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
 			<integer>575</integer>
 			<key>height</key>
-			<integer>295</integer>
+			<integer>281</integer>
 		</dict>
 	</dict>
 </plist>

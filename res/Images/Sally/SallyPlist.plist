@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>unzip/SallyMain/69.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/71.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{50,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/74.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{100,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/78.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{150,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/81.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{200,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/83.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/86.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{300,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/90.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/93.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{400,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/95.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{450,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/98.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{500,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/100.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,0},{50,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,40}</string>
+			</dict>
+			<key>unzip/SallyMain/51.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{600,0},{77,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{77,25}</string>
+			</dict>
+			<key>unzip/SallyMain/53.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{677,0},{77,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{77,25}</string>
+			</dict>
+			<key>unzip/SallyMain/56.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{754,0},{77,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{77,25}</string>
+			</dict>
+			<key>unzip/SallyMain/58.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{831,0},{77,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{77,25}</string>
+			</dict>
+			<key>unzip/SallyMain/60.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{908,0},{77,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{77,25}</string>
+			</dict>
+			<key>unzip/SallyMain/63.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{985,0},{77,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{77,25}</string>
+			</dict>
+			<key>unzip/SallyMain/65.PNG</key>
+			<dict>
+				<key>frame</key>
+				<string>{{600,25},{77,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{77,25}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SallyPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>SallyPlist.png</string>
+			<key>size</key>
+			<string>{1024,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>
